@@ -1,4 +1,3 @@
 # kodlama.io
-3.gün 3.Ödev
+:large_blue_circle: 3.gün 3.Ödev
 
-:white_check_mark:
